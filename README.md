@@ -1,0 +1,2 @@
+# manik.resume
+My resume
